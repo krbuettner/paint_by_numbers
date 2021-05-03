@@ -1,6 +1,6 @@
 # Paint By Numbers Pipeline
 
-Python and OpenCV Pipeline to Generate Outline For Coloring
+Python and OpenCV Pipeline to Generate Outline For Coloring \
 PyCUDA Experimentation Included for Some Functions
 
 ## Functions Explored
