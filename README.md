@@ -1,7 +1,7 @@
 # Paint By Numbers Pipeline
 
 Python and OpenCV Pipeline to Generate Outline For Coloring \
-PyCUDA Experimentation Included for Some Functions
+PyCUDA Experimentation Included
 
 ## Functions Explored
 - BGR to LAB Conversion
