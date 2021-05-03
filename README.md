@@ -11,6 +11,9 @@ PyCUDA Experimentation Included
 - Depth-First Search for Connected Components Labeling
 
 ## Sample Results
+
+Results show the original image, quantized image, blurred image, image outline, image outline + quantized image, and connected components results. \
+
 **5 Colors, 256x256 Image** \
 ![crosby](https://user-images.githubusercontent.com/78238895/116842534-d7e79300-abaa-11eb-816f-46e43f487131.jpg) \
 **5 Colors, 256x256 Image** \
